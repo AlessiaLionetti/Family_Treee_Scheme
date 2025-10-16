@@ -1,6 +1,3 @@
-;;Your full name: 
-;;Student ID: 
-;;Date of birth (day/month/year): 
 
 ;;Data format: Name, Mother, Father, Date of birth, Date of death.
 ;;An empty list means Unknown.
@@ -285,7 +282,7 @@
 (define (lst-all mb pb)
   (append-lst mb pb))
 
-;;You should include code to execute each of your functions below.
+
 
 
 
