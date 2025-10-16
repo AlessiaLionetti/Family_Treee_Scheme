@@ -10,5 +10,8 @@ This project is my first year university functional programming exam. It impleme
 - Data Transformation
 - Statistical Analysis
 
+## My Contribution 
 
-  Code can be run on racket
+I have been working on the implementation of the function on the paternal brunch and on the paternal brunch and implemented a function to remove duplicates. Additionally, alongside with my pair Noelia, we worked together on C1-C2-C3 to retrieve data.
+
+The code can be run on racket
